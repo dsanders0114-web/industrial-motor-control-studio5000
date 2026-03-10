@@ -214,4 +214,8 @@ This control system could be expanded with additional automation features, inclu
 * Restart delay timer after fault conditions
 * Alarm notification system
 * HMI operator interface
+![Screenshot 2026-03-10 140156](https://github.com/user-attachments/assets/a60035ff-a30b-4a7e-ab79-0d6022ae2436)
+![Screenshot 2026-03-10 140340](https://github.com/user-attachments/assets/9a7cfa79-daeb-4ae9-83ee-02a13ef03926)
+![Screenshot 2026-03-10 140513](https://github.com/user-attachments/assets/24ef13c3-45fb-420c-99c3-8cf99405d386)
+![Screenshot 2026-03-10 140018](https://github.com/user-attachments/assets/47455afa-35cc-46ce-80fb-20f267389193)
 
