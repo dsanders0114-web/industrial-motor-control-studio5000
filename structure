@@ -1,0 +1,10 @@
+studio5000-motor-starter
+│
+├── README.md
+├── sequence_of_operation.md
+├── testing_procedure.md
+├── screenshots
+│   ├── ladder_logic.png
+│   ├── motor_running.png
+│   └── overload_fault.png
+└── motor_starter.ACD
